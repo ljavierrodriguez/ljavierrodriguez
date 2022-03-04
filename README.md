@@ -3,12 +3,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/ljavierrodriguez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ljavierrodriguez" height="30" width="40" /></a>
-<a href="https://twitter.com/luisjrodriguezo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="luisjrodriguezo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/luisjrodriguezo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luisjrodriguezo" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/ljavierrodriguez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ljavierrodriguez" height="30" width="40" /></a>
-<a href="https://instagram.com/ljavierrodriguez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ljavierrodriguez" height="30" width="40" /></a>
-<a href="https://www.behance.net/ljavierrodriguez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ljavierrodriguez" height="30" width="40" /></a>
+<a href="https://dev.to/ljavierrodriguez" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ljavierrodriguez" height="30" width="40" /></a>
+<a href="https://twitter.com/luisjrodriguezo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="luisjrodriguezo" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/luisjrodriguezo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luisjrodriguezo" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/ljavierrodriguez" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ljavierrodriguez" height="30" width="40" /></a>
+<a href="https://instagram.com/ljavierrodriguez" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ljavierrodriguez" height="30" width="40" /></a>
+<a href="https://www.behance.net/ljavierrodriguez" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ljavierrodriguez" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
