@@ -2,7 +2,7 @@
 <h3 align="center">A Senior Developer from Venezuela</h3>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left" style="background-color: #ffffff; box-shadow: 2px 2px 5px black;">
 <a href="https://dev.to/ljavierrodriguez" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ljavierrodriguez" height="30" width="40" /></a>
 <a href="https://twitter.com/luisjrodriguezo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="luisjrodriguezo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/luisjrodriguezo" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luisjrodriguezo" height="30" width="40" /></a>
